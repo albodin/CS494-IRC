@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRC_Client", "IRC_Client\IRC_Client.csproj", "{FCA1C42A-8774-44B0-A7B8-23615E687C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRC_Server", "IRC_Server\IRC_Server.csproj", "{E653CFC9-2FF8-4D5A-A424-881BF8192015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA1C42A-8774-44B0-A7B8-23615E687C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA1C42A-8774-44B0-A7B8-23615E687C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA1C42A-8774-44B0-A7B8-23615E687C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA1C42A-8774-44B0-A7B8-23615E687C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E653CFC9-2FF8-4D5A-A424-881BF8192015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E653CFC9-2FF8-4D5A-A424-881BF8192015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E653CFC9-2FF8-4D5A-A424-881BF8192015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E653CFC9-2FF8-4D5A-A424-881BF8192015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A136A04F-C184-4EB8-A7EA-EA328CA4D9C1}
+	EndGlobalSection
+EndGlobal
